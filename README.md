@@ -1,4 +1,3 @@
-# [POWER BI] Superstore Sales And Expansion Strategy
 # [POWER BI] Superstore Sales and Expansion Strategy Analysis 
 ## I. Introduction
 ### 1. Introduction to Dataset
