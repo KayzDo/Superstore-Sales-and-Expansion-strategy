@@ -43,12 +43,10 @@
 
 | Insights                                          | Recommendations                                     |
 | ------------------------------------------------- | ---------------------------------------------------- |
-| Performance KPIs increase 24-27% YoY, in case return rate is low and tend to reduce             | It is the right time to reinvest and start expanding in other markets and reform strategic products                |
-| "The sale amount need to emphasize is Jun and 5 months end of the year in 4 year are in the same trend -
-> can see the seasonal and cycle sale here "              | Can have marketing campagin in peak time to increase brand awareness and sale amount.                                      |
-| Average Profit margin in 10% need to compare with retail industry  |  |
-| Return rate is low 5% -> service is good and products are fit with customer needs          | "To remain cost, company need to keep it low but if it increase to average industry is also fine when sale amount increase
-, because the present strategy is promote sale to gain marketshare"                                              |
+| Performance KPIs increase 24-27% YoY              | It is the right time to reinvest and start expanding in other markets and reform strategic products                |
+| Sales emphasize on June and year-end              | Launch marketing campaigns during peak times to increase brand awareness and sales                                      |
+| Average profit margin is 10%, compare with retail  | Maintain low return rates to control costs, but consider increasing when sales volume grows to gain market share |
+| Order amount and discount are correlated          | Personalize discounts for loyal and new customers to boost retention rates                                              |
 | Key markets:                                      | Key Actions:                                           |
 | - USA ($734k)                                    | - Continue growth momentum in the US                   |
 | - Australia ($324k)                              | - Expand into Australia, China, and India markets     |
