@@ -15,4 +15,17 @@
 ## II. Design Thinking Method
 **Here are the five steps of design thinking:**
 ### Step 1 - Empathize
-<img width="854" alt="image" src="https://github.com/KayzDo/Superstore-Sales-and-Expansion-strategy/assets/141127437/fa2c5095-462b-4782-814f-f1685aae10fa">
+<img width="856" alt="image" src="https://github.com/KayzDo/Superstore-Sales-and-Expansion-strategy/assets/141127437/5f6c6875-0e2e-4cc4-9f05-0e427befe86d">
+
+### Step 2 - Define
+<img width="587" alt="image" src="https://github.com/KayzDo/Superstore-Sales-and-Expansion-strategy/assets/141127437/771c78a6-4952-4d05-965c-775d55bae7d7">
+
+### Step 3 - Ideate
+<img width="589" alt="image" src="https://github.com/KayzDo/Superstore-Sales-and-Expansion-strategy/assets/141127437/b758415a-6333-4394-8e35-7b2e0723c483">
+
+### Step 4 - Prototype
+<img width="878" alt="image" src="https://github.com/KayzDo/Superstore-Sales-and-Expansion-strategy/assets/141127437/4afc1b18-b9a2-486d-993c-a7b00edf6e98">
+
+### Step 5 - Review
+<img width="883" alt="image" src="https://github.com/KayzDo/Superstore-Sales-and-Expansion-strategy/assets/141127437/c762586f-1312-400b-b4f6-1a0bd7b862b0">
+
